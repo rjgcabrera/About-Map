@@ -22,7 +22,7 @@ class About extends React.Component {
   // }
 
   render() {
-    return (<div>
+    return (<div id="main-div">
       <div className="col" id="one">
         <span><p>Dining Style</p></span>
         <span><p>Cuisine Type</p></span>

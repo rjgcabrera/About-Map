@@ -3,13 +3,13 @@ import React from 'react';
 
 //Doesn't hold state
 const Header = (props) => (
-  <div>
+  <div id="header">
     <h1> Header </h1>
-    <span>rating</span>
-    <span>review</span>
-    <span>price range</span>
-    <span>cuisine type</span>
-    <span>top tags</span>
+    <span>rating</span><br></br>
+    <span>review</span><br></br>
+    <span>price range</span><br></br>
+    <span>cuisine type</span><br></br>
+    <span>top tags</span><br></br>
   </div>
 )
 
